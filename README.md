@@ -6,6 +6,7 @@ python basis project rock ,paper and scissor game
 
 A simple and fun Rock–Paper–Scissors game built in Python.
 The user plays against the computer, and the program randomly selects Rock, Paper, or Scissors.
+Also give score users or compter who win and Q for Quit the give.
 Perfect for beginners learning Python basics like conditionals, loops, and random number generation.
 
 
