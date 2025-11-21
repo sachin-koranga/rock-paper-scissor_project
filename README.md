@@ -20,3 +20,8 @@ Scissors beats Paper
 Paper beats Rock
 
 The program displays the result and shows who wins!
+
+Author & content
+Sachin koranga
+
+email- sachinkoranga81@gmail.com
